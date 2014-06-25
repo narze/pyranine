@@ -1,4 +1,4 @@
-
+# coding: utf-8
 
 module Pyranine
   class Annotation < Struct.new(:page, :attributes)

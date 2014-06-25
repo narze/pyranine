@@ -1,3 +1,5 @@
+# coding: utf-8
+
 require 'pdf/reader/page_layout'
 
 # Builds a UTF-8 string of all the text on a single page within the given markups

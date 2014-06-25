@@ -1,3 +1,5 @@
+# coding: utf-8
+
 module Pyranine
   class Viewer
     attr_reader :docs, :target_dir

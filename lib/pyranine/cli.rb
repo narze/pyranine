@@ -1,3 +1,5 @@
+# coding: utf-8
+
 module Pyranine
   class CLI < Struct.new(:args)
     def target_dir
